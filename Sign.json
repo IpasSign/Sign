@@ -16,6 +16,17 @@
 			"size": 857669
         },
 		{
+			"name": "Taurine Jailbreak",
+			"developerName": "Odyssey Team",
+			"version": "1.1.1",
+			"versionDate": "2021-09-04",
+			"versionDescription": "What makes Taurine different to other jailbreaks?",
+			"downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
+			"iconURL": "https://iosninja.io/img/ipas/taurine.png",
+			"tintColor": "FC2125",
+			"size": 33132976
+        },
+		{
 			"name": "Unc0ver",
 			"developerName": "Uc0ver Team",
 			"version": "7.0.2",
