@@ -2,7 +2,8 @@
 	"name": "Sign Repo",
 	"identifier": "com.sign.repo",
 	"sourceURL": "https://ipassign.github.io/Sign/Sign.json",
-	"apps": [{
+	"apps": [
+		{
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
 			"developerName": "iNDS Team",
@@ -14,6 +15,17 @@
 			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
 			"tintColor": "FC2125",
 			"size": 857669
+        },
+		{
+			"name": "Kodi 19 Matrix",
+			"developerName": "XBMC",
+			"version": "19.3",
+			"versionDate": "2021-11-15",
+			"versionDescription": "Kodi Matrix v19 is a free and open-source media player that allows you to access a wide range of media content right on your device.",
+			"downloadURL": "https://www.dropbox.com/s/poyhaxuz8ju2xyz/Kodi-19.3.ipa?dl=1",
+			"iconURL": "https://iosninja.io/img/ipas/kodi19.png",
+			"tintColor": "FC2125",
+			"size": 127723934
         },
 		{
 			"name": "Taurine Jailbreak",
