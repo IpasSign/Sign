@@ -1,0 +1,86 @@
+{
+	"name": "Sign Repo",
+	"identifier": "com.sign.repo",
+	"sourceURL": "https://ipassign.github.io/Sign/Sign.json",
+	"apps": [{
+			"name": "iNDS",
+			"bundleIdentifier": "net.nerd.iNDS",
+			"developerName": "iNDS Team",
+			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
+			"version": "1.10.7",
+			"versionDate": "2020-02-10",
+			"versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
+			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
+			"tintColor": "FC2125",
+			"size": 857669
+        },
+		{
+			"name": "Unc0ver",
+			"developerName": "Uc0ver Team",
+			"version": "7.0.2",
+			"versionDate": "2021-10-20",
+			"versionDescription": "The most advanced jail​break tool. \n \nCamios: Bug fixes for iOS 14 (Fixes the iMessage issue on iOS 14.5-14.5.1)",
+			"downloadURL": "https://www.dropbox.com/s/a3qz5dw8w7wr2qj/unc0ver_Release_7.0.2.ipa?dl=1",
+			"iconURL": "http://jbctoken.com/icons/OknpE-Oo_400x400.jpg",
+			"tintColor": "FC2125",
+			"size": 53887460
+        },
+        {
+			"name": "Watusi 3",
+			"developerName": "Fouad Raheb",
+			"version": "1.1.6",
+			"versionDate": "2021-11-05",
+			"versionDescription": "The all-in-one Tweak for WhatsApp Messenger. \n \nCamios: Bug fixes for WhatsApp 2.21.140. \nFixed Force Send Voice Receipts when Disable Read Receipts enabled",
+			"downloadURL": "https://www.dropbox.com/s/d67we2eenfah988/net.whatsapp.WhatsApp_v2.21.211_watusi3_1.1.6.ipa?dl=1",
+			"iconURL": "https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png",
+			"tintColor": "FC2125",
+			"size": 129952400
+        },
+        {
+			"name": "Plus for Instagram",
+			"developerName": "Prasa Dev",
+			"version": "210.0(T2.36)",
+			"versionDate": "2021-11-05",
+			"versionDescription": "Plus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak",
+			"downloadURL": "https://www.dropbox.com/s/npzmxo5d04cwcha/Instagram_210_0-PlusVersion_2_36.ipa?dl=1",
+			"iconURL": "https://iosninja.io/img/ipas/plus-for-instasgram.jpeg",
+			"tintColor": "FC2125",
+			"size": 80212545
+        },
+        {
+			"name": "iPogo",
+			"developerName": "iPogo",
+			"version": "2.2.8",
+			"versionDate": "2021-11-11",
+			"versionDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+			"downloadURL": "https://www.dropbox.com/s/vnld3p6au8pn9bs/ipogo-2.2.8.ipa?dl=1",
+			"iconURL": "https://poketouch.files.wordpress.com/2021/09/season_of_mischief_pokemon_go_app_icon.png",
+			"tintColor": "FC2125",
+			"size": 116832548
+        },
+        {
+			"name": "Spotify++",
+			"developerName": "Julio Verne",
+			"version": "8.6.24",
+			"versionDate": "2021-11-01",
+			"versionDescription": "No Ads, Seeking Enabled, No Forced Shuffle, Unlimited Skips, Extreme Quality stream enabled, Import songs from Music app",
+			"downloadURL": "https://www.dropbox.com/s/e2dqphwzpcwwrk1/spotify%2B%2B.ipa?dl=1",
+			"iconURL": "https://ipafiles.tk/img/spotify++.png",
+			"tintColor": "FC2125",
+			"size": 55912935
+        },
+        {
+			"name": "Cercube 5 for YouTube",
+			"developerName": "Majd Alfhaily",
+			"version": "16.33.3(T5.3.0)",
+			"versionDate": "2021-08-24",
+			"versionDescription": "Adds new features to YouTube: \nDownload and save videos up to 4k resolution. \nSave videos as audio only. \nView, manage and share all your downloads in Cercube's download manager. \nBlock ads. \nShare downloaded videos with other devices via AirDrop. \nBackground playback for streamed and downloaded videos. \nImport downloads to Music or Videos. \nPlay YouTube videos using Picture-in-Picture mode. \nDownloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information. \nChoose the default tab to open when launching YouTube. \nStream videos in HD on cellular network. \nAuto-replay videos. \nHide floating upload button. \nHide the Trending tab. \nRewind or forward videos. \nCercube options are configurable from within YouTube settings. \nPlay in high quality on Mobile Data",
+			"downloadURL": "https://www.dropbox.com/s/khs3w515asiuqho/cercube_v5.3.0.ipa?dl=1",
+			"iconURL": "https://iosninja.io/img/ipas/cercube.png",
+			"tintColor": "FC2125",
+			"size": 108161872
+        }
+	]
+	
+}
