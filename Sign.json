@@ -39,6 +39,18 @@
 			"size": 33132976
         },
 		{
+			"name": "Facebook Wolf",
+			"developerName": "Umanzor",
+			"version": "345",
+			"versionDate": "2021-11-24",
+			"versionDescription": "Facebook Wolf brings a number of new features to Facebook such as: \nDisable Marking Messages \nDisable Tying Status \nDisable Marking Stories \nDisable Auto-Advance in Stories \nNo Facebook Story Ads \nNo Facebook Feed Ads \nSave Feed videos by long-pressing the video)",
+			"downloadURL": "https://www.dropbox.com/s/f91fexptily4af8/Facebook.ipa?dl=1",
+			"iconURL": "https://iosninja.io/img/ipas/facebook.png",
+			"tintColor": "FC2125",
+			"size": 123345476
+        },
+
+		{
 			"name": "Unc0ver",
 			"developerName": "Uc0ver Team",
 			"version": "7.0.2",
