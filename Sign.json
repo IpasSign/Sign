@@ -4,6 +4,17 @@
 	"sourceURL": "https://ipassign.github.io/Sign/Sign.json",
 	"apps": [
 		{
+			"name": "Rocket for Instagram",
+			"developerName": " Majd Alfhaily",
+			"version": "178.0(T3.7.20)",
+			"versionDate": "2021-11-15",
+			"versionDescription": "Adds new features to Instagram: \nSave any photo or video to Camera Roll \nHold down on an image or video to view high resolution version of i\nDouble tap or hold on a profile picture to view it in full-screen \nMute and unmute users from home and activity feed\nHide sponsored ads\nShow following status on user profile\nShare images with third-party apps\nView direct messages without notifying sender\nChange feed layout between grid or list view\nShows confirmation message when double tapping a post to like it\nView exact timestamp of a post (date and time)/nView stories without marking them as seen\nDownload photos and videos from stories\nManually mark stories as seen\nShow entire gallery instead of last 24 hours in story maker",
+			"downloadURL": "https://www.dropbox.com/s/fh9pi1yp5tpzdfl/rocket_v3.7.20.ipa?dl=1",
+			"iconURL": "https://iosninja.io/img/ipas/instagram.jpg",
+			"tintColor": "FC2125",
+			"size": 69245386
+        },
+        {
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
 			"developerName": "iNDS Team",
