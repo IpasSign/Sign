@@ -3,16 +3,16 @@
 	"identifier": "com.sign.repo",
 	"sourceURL": "https://ipassign.github.io/Sign/Sign.json",
 	"apps": [
-		{
+        {
 			"name": "Fortnite",
 			"developerName": "SignRepo",
 			"version": "13.40.1",
 			"versionDate": "2021-11-15",
-			"versionDescription": "Temporada 4",
+			"versionDescription": "Fortnite Temporada 4",
 			"downloadURL": "https://www.dropbox.com/s/in0nto509jnelac/Fortnite%2013.40.1.ipa?dl=1",
 			"iconURL": "https://img.ibxk.com.br/2018/6/programas/16140715151905132.png",
 			"tintColor": "FC2125",
-			"size": 276399544 
+			"size": 276399544
         },
         {
 			"name": "Rocket for Instagram",
